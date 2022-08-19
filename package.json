@@ -4,9 +4,14 @@
   "description": "API for SPA breaknews",
   "main": "index.js",
   "scripts": {
-    "test": "node index"
+    "start": "node index"
+    
   },
   "keywords": [],
   "author": "Kelvin Presterrigo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
 }

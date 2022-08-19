@@ -1,0 +1,12 @@
+{
+  "name": "api-breaknews",
+  "version": "1.0.0",
+  "description": "API for SPA breaknews",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [],
+  "author": "Kelvin Presterrigo",
+  "license": "ISC"
+}
